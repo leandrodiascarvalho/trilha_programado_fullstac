@@ -18,7 +18,7 @@ Repositorio onde eu documentarei meu estudo.
     **Dia 4** _Prática_
 - [ ] Adicionar links e imagens à página anterior
 
-  **Dia 3:** 
+  **Dia 5:** 
 - [ ] Formulários
 - [ ] tabelas
 
