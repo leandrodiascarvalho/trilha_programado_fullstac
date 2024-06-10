@@ -114,7 +114,7 @@ Repositorio onde eu documentarei meu estudo.
 - [ ] ***Exercício:*** Criar um layout que utilize unidades responsivas para adaptação automática.
 
  **Dia 3**
- - [ ]Flexbox e Responsividade
+ - [ ] Flexbox e Responsividade
  - [ ] ***Exercício:*** Utilizar Flexbox para criar um layout responsivo.
  
  **Dia 4**
@@ -175,11 +175,11 @@ Repositorio onde eu documentarei meu estudo.
 **Dia 3**
 - [ ] Funções e Procedimentos
 - [ ] ***Exercício:*** Escrever uma função que retorna o fatorial de um número. matrizes.
-- 
+
 **Dia 4**
 - [ ] Recursão
 - [ ] ***Exercício:*** Escrever uma função recursiva para calcular o fatorial de um número. matrizes.
-- 
+
 **Dia 5** ***Revisão da Semana e Prática***
 
 - [ ] ***Exercício:***  Escrever um algoritmo que verifica se uma palavra é um palíndromo.
